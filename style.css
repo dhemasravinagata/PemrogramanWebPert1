@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, sans-serif
+}
+#all{
+    background-image: url(abstract-digital-grid-black-background_53876-97647.avif);
+    text-align: center;
+    color: #ffffff;
+}
+
+#headd{
+    color: #ffffff;
+    text-align: center;
+}
+
+.title{
+    font-size: 24px;
+    font-weight:  bold;
+
+}
+
+#btnsubmit2{
+    background-color: greenyellow;
+}
+
